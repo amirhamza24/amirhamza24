@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **MERN, Android**
+- 💬 Ask me about **MERN, Web Development**
 
 - 📫 How to reach me **ridoy.amirhamza@gmail.com**
 

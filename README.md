@@ -1,7 +1,7 @@
 <img width="100%" src="https://github.com/amirhamza24/amirhamza24/blob/main/first.jpg" alt="cover" />
 
 <h1 align="center">Hi 👋, I'm Amir Hamza</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Passionate Full-Stack Web Developer</h3>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhamza24&" alt="amirhamza24" /></p>
 <br>

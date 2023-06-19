@@ -18,7 +18,8 @@
 
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h2>  
+<p align="left">  </h3>
 <p align="left">
 <a href="https://twitter.com/amirhamza45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirhamza45" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amir-hamza-447ba8278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-hamza-447ba8278" height="30" width="40" /></a>

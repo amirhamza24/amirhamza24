@@ -32,5 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhamza24&show_icons=true&locale=en&layout=compact" alt="amirhamza24" /></p>
 
-![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 

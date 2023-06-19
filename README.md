@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/pQ0SQqP/banner.jpg" alt="cover" />
+<img width="100%" src="https://github.com/amirhamza24/amirhamza24/blob/main/first.jpg" alt="cover" />
 
 <h1 align="center">Hi 👋, I'm Amir Hamza</h1>
 <h3 align="center">A passionate frontend developer</h3>

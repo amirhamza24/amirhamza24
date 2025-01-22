@@ -1,6 +1,7 @@
 <img width="100%" src="https://github.com/amirhamza24/amirhamza24/blob/main/first.jpg" alt="cover" />
 
-<br>
+<!-- <br> -->
+
 
 <!--
 <h1 align="center">
@@ -13,8 +14,10 @@
 <br>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhamza24&" alt="amirhamza24" /></p>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirhamza24" alt="amirhamza24" /></a> </p>
+
+<!-- <br> -->
+
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirhamza24" alt="amirhamza24" /></a> </p> -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhamza24&show_icons=true&locale=en&layout=compact" alt="amirhamza24" /></p>
 
@@ -26,10 +29,9 @@
 - 📫 How to reach me **ridoy.amirhamza@gmail.com**
 - ⚡ Fun fact **I am funny**
 
-  <br>
+ <!-- <br> -->
 
 <h2 align="left">Connect with me: 🌐</h2>  
-<p align="center">  </h3>
 <p align="center">
 <h3 align="center">
   
@@ -42,8 +44,6 @@
 
 </h3>
 </p>
-
-<br>
 
 <h2 align="left">Languages and Tools: 💻</h3>
 
@@ -90,7 +90,7 @@
 
 ![snake gif](https://github.com/amirhamza24/amirhamza24/blob/output/github-snake.svg)
 
-<br>
+<!-- <br> -->
 
 
 

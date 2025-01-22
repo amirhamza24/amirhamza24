@@ -25,7 +25,7 @@
 <p align="left"> <a href="https://twitter.com/amirhamza45" target="blank"><img src="https://img.shields.io/twitter/follow/amirhamza45?logo=twitter&style=for-the-badge" alt="amirhamza45" /></a> </p>
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💬 Ask me about **MERN, Android**
+- 💬 Ask me about **MERN**
 - 📫 How to reach me **ridoy.amirhamza@gmail.com**
 - ⚡ Fun fact **I am funny**
 
